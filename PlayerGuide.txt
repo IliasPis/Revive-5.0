@@ -1,0 +1,58 @@
+REVIVE 5.0 - Player Guide
+
+Welcome to REVIVE 5.0! This guide will help you get started and understand how to play the game, whether you are playing solo against the AI or competing with other players online.
+
+1. Game Objective
+-----------------
+Answer as many questions as you can correctly to score points. The player with the highest score at the end of the game wins. Each question is related to workplace skills, leadership, communication, and other professional topics.
+
+2. Game Modes
+-------------
+- **Single Player vs AI:** Play against the computer. Take turns answering questions. The AI will answer automatically on its turn.
+- **Multiplayer:** Join or create a room to play against another player online. Both players answer questions in turns.
+
+3. Starting a Game
+------------------
+- **Single Player:** Select "Play with AI" from the main menu.
+- **Multiplayer:** Enter a room code to join a friend's game, or use Quickmatch to find a random opponent. You can also create your own room and share the code.
+
+4. Answering Questions
+----------------------
+- Each turn, a question will appear with multiple-choice answers.
+- Select the answer you think is correct before the timer runs out.
+- If you answer correctly, you earn a point. If not, no point is awarded.
+- Some questions are linked to specific workplace topics; your performance in these areas is tracked.
+
+5. Turns and Timer
+------------------
+- Players take turns answering a set number of questions before switching.
+- Each question has a time limit (shown on the timer). If you don't answer in time, the question is passed.
+- You can skip a question if you are unsure, but you won't earn a point for skipped questions.
+
+6. Scoring and Outcome
+----------------------
+- Your score and your opponent's score are displayed on the screen.
+- Topic-specific scores are also tracked and shown at the end of the game.
+- At the end of all questions, the final scores and winner are displayed.
+
+7. Avatars and Names
+--------------------
+- Choose your avatar and set your player name in the lobby.
+- Your avatar and name are shown to your opponent and on the final score screen.
+
+8. Language Selection
+---------------------
+- The game supports multiple languages. You can select your preferred language from the settings or main menu.
+
+9. Exiting and Resetting
+------------------------
+- You can exit to the main menu at any time using the exit button.
+- Use the reset button to restart the game.
+
+10. Tips
+--------
+- Read each question carefully before answering.
+- Manage your time wisely; don't rush, but don't let the timer run out.
+- Try to improve your topic scores by focusing on your weaker areas.
+
+Enjoy playing REVIVE 5.0 and improving your workplace skills!
